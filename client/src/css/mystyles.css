@@ -1,0 +1,17 @@
+/* accountscreenstyles.css */
+.my-button {
+    cursor: pointer;
+    background-color: rgb(78, 78, 78);
+    color: #ffffff;
+    font-size: small;
+    width: fit-content;
+    padding: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    border-radius: 3px;
+
+}
+
+.my-button:hover {
+    background-color: rgb(194, 16, 16);
+}
